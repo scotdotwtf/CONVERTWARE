@@ -1,8 +1,7 @@
 # CONVERTWARE | the open source fd fix
 ![Convertwarelogo](https://github.com/specowos/CONVERTWARE/raw/main/Convertwarelogo.png)
 
-<span style="color:#98add6">// JOIN THE DISCORD https://discord.gg/eTTjPKBdfT HATLIST THERE //<span> <br /> <br />
--
+# <span style="color:#98add6">// JOIN THE DISCORD https://discord.gg/eTTjPKBdfT HATLIST THERE //<span> <br /> <br />
 
 <span style="color:#98add6">// ABOUT CONVERTWARE //<span> <br /> <br />
 -
@@ -55,5 +54,4 @@
 - Also if you want your script removed or know a person who made a script I didn't know the creator to please dm me, my tag is spec#9001 <br />
 <br /> <br />
 
-<span style="color:#98add6">// JOIN THE DISCORD https://discord.gg/eTTjPKBdfT HATLIST THERE //<span> <br /> <br />
--
+# <span style="color:#98add6">// JOIN THE DISCORD https://discord.gg/eTTjPKBdfT HATLIST THERE //<span> <br /> <br />
