@@ -1,0 +1,24 @@
+<span style="color:#8c9ef7">★ if it has a star(s) it just means i like it a lot -spec ★</span>
+-
+-  ★// sun sword > MONEY > A cool sword script
+-  /// huntsman knife > MONEY > Become a creepy killer! 👻
+-  ★★/ kitchen gun > MONEY > I LOVE YOU KITCHEN GUN!
+-  ★★★ neptunian v > MONEY > Ever wanted to be the coolest swordsman ever?
+-  ★★/ xester > FREE > *please no jevil jokes*
+-  /// krystal dance V1 > FREE > A fun dancing script 🕺
+-  ★★/ krystal dance V2 > FREE > A even more fun dancing script 💃🕺
+-  ★★★ abyss eye > MONEY > The god damn coolest sword script ever
+-  /// gale fighter > FREE > PUNCH SOME NOOBIES!
+-  ★// ender > FREE > You become a really cool lookin demon guy
+-  ★★/ sonic > FREE > **GOTTA GO FAST**
+-  /// memeus 2 > FREE > haha funni dead memes
+-  /// memeus 2.5 > FREE > haha more funni dead memes
+-  /// chara > MONEY > roblox.com/catalog/7170689370 > **get revenge**
+-  /// sans > FREE > ;)
+-  /// caac > FREE > I GOT A GUN, NO GIRLS, GIRLS GOTTA DIE 😈
+-  /// dual ultima > MONEY > You get 2 cool ass swords (this was a pain in the ass to convert)
+-  ★★/ server admin > FREE > 01101100 01101111 01101100
+-  /// meme animations > FREE > SHE CAN GO LOWER THAN I EVERY REALLY THOUGHT SHE COULD FACE DOWN *ASS UP!*
+-  /// crazy blades > MONEY > The most cool but also god damn broken scripts ever
+-  ★★★ magic unknown > FREE > THIS SCRIPT IS FUCKING AMAZING. its a free cool purple magic script
+-  /// sassy > MONEY > bro this script is weird and funny as shit 😭
