@@ -44,7 +44,7 @@
 
 <span style="color:#8c9ef7">★ Name/Group | Contributed | Note</span> <br />
 -
-- Specowos > UI/Converts > This project was fun lol<br />
+- Specowos (me) > UI/Converts > This project was fun lol<br />
 - Mizt > Reanimation > Your reanimation is amazing<br />
 - GelatekWasTaken > Tutorial/Etc > Your videos have truly helped me with this project and this wouldn't have been made without you, thanks
 
