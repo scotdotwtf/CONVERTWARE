@@ -2,6 +2,12 @@
 ![Convertwarelogo](https://github.com/specowos/CONVERTWARE/raw/main/Convertwarelogo.png)
 
 # <span style="color:#98add6">// JOIN THE DISCORD https://discord.gg/eTTjPKBdfT //<span> <br /> <br />
+<span style="color:#98add6">// QUICK LINKS //<span> 
+-
+- Script https://github.com/specowos/CONVERTWARE/blob/main/load.lua
+- Hat List https://github.com/specowos/CONVERTWARE/blob/main/Hatlist.md
+- Cmds https://github.com/specowos/CONVERTWARE/blob/main/CMDS.md
+ <br /> <br /> 
 
 <span style="color:#98add6">// ABOUT CONVERTWARE //<span> <br /> <br />
 -
