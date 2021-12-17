@@ -1,5 +1,5 @@
 _G.MiztReanimSettings = {
-    PermanentDeath = true
+    PermanentDeath = true,
     NoHeadPermanentDeath = false,
     Noclip = true,
     HatReanimate = false,
