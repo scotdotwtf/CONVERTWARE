@@ -596,8 +596,8 @@ end))
 function ApplyDamage(Humanoid,Damage)
 	Damage = Damage * DAMAGEMULTIPLIER
 	if Humanoid.Health < 2000 then
-		if Humanoid.Health - Damage > 0 then
-			Humanoid.Health = Humanoid.Health - Damage
+		if Humanoid.Health > 0 then
+			Humanoid.Health = Humanoid.Health
 		else
 			Humanoid.Parent:BreakJoints()
 		end
@@ -618,7 +618,7 @@ function ApplyAoE(POSITION,RANGE,MINDMG,MAXDMG,FLING,INSTAKILL)
 							CHILD:BreakJoints()
 						else
 							local DMG = MRANDOM(MINDMG,MAXDMG)
-							ApplyDamage(HUM,DMG)
+							
 						end
 						if FLING > 0 then
 							for _, c in pairs(CHILD:GetChildren()) do
@@ -662,7 +662,7 @@ function Melee()
 					end
 					table.insert(HITS,hit.Parent)
 						if PASS == true then
-						ApplyDamage(HUM,MRANDOM(15,25))
+						
 					end
 				end
 			end
@@ -871,7 +871,7 @@ function AbyssalDash()
 							end
 							if PASS == true then
 								local DMG = MRANDOM(0,0)
-								ApplyDamage(HUM,DMG)
+								
 								table.insert(HITS,CHILD)
 							end
 						end
