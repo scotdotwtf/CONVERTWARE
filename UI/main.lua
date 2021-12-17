@@ -351,11 +351,6 @@ local scriptcmds = {
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Meme%20Animations%20Convert.lua',true))()
     end,
     
-    ["crazy blades"] =  function()
-        CMSG(" > Running Dual Crazy Blades by ???")
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Dual%20Crazy%20Blades%20Convert.lua',true))()
-    end,
-    
     ["magic unknown"] =  function()
         CMSG(" > Running Magic Unknown by KillerDarkness0105")
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Magic%20Unknown%20Convert.lua',true))()
