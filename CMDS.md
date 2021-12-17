@@ -1,8 +1,14 @@
 <span style="color:#8c9ef7">★ if it has a star(s) it just means i like it a lot -spec ★</span>
 -
+-  <span style="color:#8c9ef7">-- // Reanimation // --</span>
 -  /// r6 > Reanimates you
 -  /// r6f > Reanimates you with mizt's built in flings
 -  /// r6d > Reanimates you with mizt's godmode/perma death
+-  <span style="color:#8c9ef7">-- // Control // --</span>
+-  /// cmds > Shows commands
+-  /// noscript > Kills the script from coregui
+-  /// re > Rejoins to fully reset your character
+-  <span style="color:#8c9ef7">-- // Converts // --</span>
 -  ★// sun sword > MONEY > A cool sword script
 -  /// huntsman knife > MONEY > Become a creepy killer! 👻
 -  ★★/ kitchen gun > MONEY > I LOVE YOU KITCHEN GUN!
