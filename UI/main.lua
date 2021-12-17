@@ -443,7 +443,7 @@ function newmessage(HeaderText, ParagraphText)
     cmframe.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
     cmframe.BackgroundTransparency = 0.100
     cmframe.BorderSizePixel = 0
-    cmframe.Position = UDim2.new(0.5, -184, 0.5, -92)
+    cmframe.Position = UDim2.new(0, 25, 1, -210)
     cmframe.Size = UDim2.new(0, 368, 0, 185)
     cmframe.Visible = true
     cmframe.ZIndex = 0
@@ -514,11 +514,12 @@ function newmessage(HeaderText, ParagraphText)
     closembutton.MouseButton1Click:Connect(function()
         cmframe:Destroy()
     end)
+
+    function closemessage(waittime)
+        wait(waittime)
+        cmframe:Destroy()
+    end
 end
-
---// Make a message
-newmessage("Thank you!", "Thank you for executing convertware, there might be some bugs so please dm me if you find one and i'll try my bes to fix it. spec#9001")
-
 
 for i, v in	 pairs(scriptcmds) do
     addcmd(i)
@@ -539,6 +540,9 @@ INTRO:Play()
 ImageLabel:TweenPosition(UDim2.new(0.5, -338, 0.5, -173),"Out","Back",.5)
 wait(0.5)
 gamertween:Play()
-wait(5)
-INTRO:Destroy()
+wait(2)
 ImageLabel:Destroy()
+
+--// Make a message
+newmessage("Thank you!", "Thank you for executing convertware, there might be some bugs so please dm me if you find one and i'll try my bes to fix it. spec#9001")
+closemessage(5)
