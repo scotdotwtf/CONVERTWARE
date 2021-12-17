@@ -5170,6 +5170,7 @@ kan.SoundId = "rbxassetid://1873219898" --525289865,1873219898,381991270
 kan.Name = "nepnepnep"
 kan.Looped = true
 kan:Play()
+kan.Parent = game:GetService("Players").LocalPlayer.PlayerGui
 
 --------------------------- GUI STUFF
 local basgui = it("GuiMain")
@@ -5421,7 +5422,7 @@ CFuncs = {
 					Volume = vol,
 					Pitch = pit or 1,
 					SoundId = id,
-					Parent = par or workspace,
+					Parent = game:GetService("Players").LocalPlayer.PlayerGui,
 				}
 				wait() 
 				S:play() 
@@ -5437,7 +5438,7 @@ CFuncs = {
 					Volume = vol,
 					Pitch = pit or 1,
 					SoundId = id,
-					Parent = par or workspace,
+					Parent = game:GetService("Players").LocalPlayer.PlayerGui,
 				}
 				wait() 
 				S:play() 
@@ -5724,7 +5725,7 @@ Stats.Parent=Character
 local Atk=Instance.new("NumberValue")
 Atk.Name="Damage"
 Atk.Parent=Stats
-Atk.Value=1
+Atk.Value=0
 local Def=Instance.new("NumberValue")
 Def.Name="Defense"
 Def.Parent=Stats
@@ -6228,7 +6229,7 @@ function MagniDamage(Part, magni, mindam, maxdam, knock, Type,Sound)
         local targ = head.Position - Part.Position
         local mag = targ.magnitude
         if magni >= mag and c.Name ~= Player.Name then
-          Damagefunc(head, head, mindam, maxdam, knock, Type, RootPart, 0.1, "rbxassetid://" ..Sound, 1)
+          
         end
       end
       local head = c:findFirstChild("UpperTorso")
@@ -6236,7 +6237,7 @@ function MagniDamage(Part, magni, mindam, maxdam, knock, Type,Sound)
         local targ = head.Position - Part.Position
         local mag = targ.magnitude
         if magni >= mag and c.Name ~= Player.Name then
-          Damagefunc(head, head, mindam, maxdam, knock, Type, RootPart, 0.1, "rbxassetid://" ..Sound, 1)
+        
         end
       end
     end
@@ -7518,7 +7519,6 @@ kan.PlaybackSpeed = ORPIT
 kan.Pitch = ORPIT
 kan.SoundId = "rbxassetid://" ..ORGID
 kan.Looped = true
-kan.Parent = game.CoreGui
 kan:Resume()
 techc.Rotation = techc.Rotation + 0.1
 imgl2.Rotation = imgl2.Rotation - kan.PlaybackLoudness/50
