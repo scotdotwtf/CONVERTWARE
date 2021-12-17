@@ -47,7 +47,7 @@ local A = false
 local S = false
 local D = false
 -------------
-local m = Instance.new("Model",game.Players.LocalPlayer.Character) m.Name = "ModelParts"
+local m = Instance.new("Model",game.Players.LocalPlayer.Character.Dummy.Dummy) m.Name = "ModelParts"
 local miniweld = nil
 local rootpart = nil
 
@@ -211,7 +211,7 @@ function GenerateGui()
 end
 
 function Generate(player)
-char = player.Character
+char = player.Character.Dummy.Dummy
 Hat1 = P(1,1,1,'Black',0,false,false)
 Hat2 = P(1,1,1,'Black',0,false,false)
 wait()
