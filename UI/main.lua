@@ -224,12 +224,12 @@ local scriptcmds = {
     --// Starting with reanimations
     ["r6"] =  function()
         CMSG(" > Reanimated!")     
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Reanimation/Mizt%20Flings.lua',true))() 
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Reanimation/Mizt%20Reanimation.lua',true))()  
     end,
     
     ["r6f"] =  function()
         CMSG(" > Reanimated with flings on!")       
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Reanimation/Mizt%20Reanimation.lua',true))()   
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Reanimation/Mizt%20Flings.lua',true))() 
     end,
 
     ["r6d"] =  function()
