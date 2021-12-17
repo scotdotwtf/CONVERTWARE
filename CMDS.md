@@ -1,5 +1,8 @@
 <span style="color:#8c9ef7">★ if it has a star(s) it just means i like it a lot -spec ★</span>
 -
+-  /// r6 > Reanimates you
+-  /// r6f > Reanimates you with mizt's built in flings
+-  /// r6d > Reanimates you with mizt's godmode/perma death
 -  ★// sun sword > MONEY > A cool sword script
 -  /// huntsman knife > MONEY > Become a creepy killer! 👻
 -  ★★/ kitchen gun > MONEY > I LOVE YOU KITCHEN GUN!
