@@ -1,5 +1,5 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/GelatekWasTaken/GelatekV2/main/LoadLibrary.lua',true))()
-print("Running Phosphoria Huntsman Knife by ???")
+print("> Running Phosphoria Huntsman Knife by ???")
 print("Please DM me if you know the person who made this script, my tag is spec#9001")
 
 local player = game.Players.LocalPlayer
