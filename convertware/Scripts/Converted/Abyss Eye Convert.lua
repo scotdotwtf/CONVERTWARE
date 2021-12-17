@@ -3,7 +3,7 @@
 --||              ABYSS EYE BY SHACKLUSTER               ||--
 --\\====================================================//--
 
-print("> Running Abyss Eye by Shackluster
+print("> Running Abyss Eye by Shackluster")
 Game:GetService("Players").LocalPlayer.Character.Dummy.Dummy.Humanoid.Jump = true
 wait(0.5)
 
