@@ -548,7 +548,7 @@ function MagniDamage(Part, magni, mindam, maxdam, knock, Type)
         local targ = head.Position - Part.Position
         local mag = targ.magnitude
         if magni >= mag and c.Name ~= plr.Name then
-          Damage(head, head, mindam, maxdam, knock, Type, root, 0.1, "http://www.roblox.com/asset/?id=231917784", 1.2)
+			
         end
       end
     end
@@ -1437,7 +1437,7 @@ function slap()
 	hum.WalkSpeed = 10
 	CreateSound("146163534", hed, 10, 1)
         Character.Head.face.Texture = "rbxassetid://293603561"
-        game.Players.LocalPlayer.Character.Humanoid:TakeDamage(7)
+        game.Players.LocalPlayer.Character.Humanoid:TakeDamage(0)
 	CameraEnshaking(1, 2)
 	for i = 0,4,0.1 do
 		swait()
@@ -1458,7 +1458,7 @@ function MYSPAGHETTTTTTT() --ow
 	hum.WalkSpeed = 1.01
 	CreateSound("1282149571", hed, 10, 1)
         Character.Head.face.Texture = "rbxassetid://1329282756"
-        game.Players.LocalPlayer.Character.Humanoid:TakeDamage(10)
+        game.Players.LocalPlayer.Character.Humanoid:TakeDamage(0)
 	CameraEnshaking(1, 2.2)
 	for i = 0,4,0.1 do
 		swait()
@@ -1748,7 +1748,7 @@ function HAAAAA() --KONO POWA
 		swait()
 		CameraEnshaking(1, 5)
                 chargeup.Parent = hed
-                game.Players.LocalPlayer.Character.Humanoid:TakeDamage(0.12)
+                game.Players.LocalPlayer.Character.Humanoid:TakeDamage(0)
 		rootj.C0 = clerp(rootj.C0, RootCF * CF(0, 0, -0.1 + 0.1) * angles(Rad(0), Rad(0), Rad(0)), 0.15)
 		tors.Neck.C0 = clerp(tors.Neck.C0, necko * angles(Rad(-65), Rad(0), Rad(0)), 0.3)
 		RH.C0 = clerp(RH.C0, CF(1.1, -0.9 - 0.1 , 0.025 * Cos(sine / 20)) * RHCF * angles(Rad(-20), Rad(0), Rad(0)), 0.15)
