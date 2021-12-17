@@ -3,6 +3,7 @@
 ---  This script was created by WafflesAreVeryGood  ---
 -------------------------------------------------------
 print("> Running Kitchen Gun by WafflesAreVeryGood")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GelatekWasTaken/GelatekV2/main/LoadLibrary.lua',true))()
 	        --[[Changeable Variables]]--
 local multiplier = 1 --Attack multiplier (default is 1)
 local soundlist = {
