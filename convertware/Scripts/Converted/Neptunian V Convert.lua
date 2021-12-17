@@ -4,7 +4,6 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/GelatekWasTaken/Gelat
 --- Was supposed to be for the770zone, or VengefulProgram.
 
 print("> Running Neptune/Neptunian V by NoobyGames12")
-print("Since this convert is buggy i reccomend you do 'vol/ 0' after reseting")
 print[[// Set your theme by 
 
 id/ [num]
