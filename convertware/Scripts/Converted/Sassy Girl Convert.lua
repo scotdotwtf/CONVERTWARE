@@ -94,7 +94,7 @@ local ROOTC0 = CF(0, 0, 0) * ANGLES(RAD(-90), RAD(0), RAD(180))
 local NECKC0 = CF(0, 1, 0) * ANGLES(RAD(-90), RAD(0), RAD(180))
 local RIGHTSHOULDERC0 = CF(-0.5, 0, 0) * ANGLES(RAD(0), RAD(90), RAD(0))
 local LEFTSHOULDERC0 = CF(0.5, 0, 0) * ANGLES(RAD(0), RAD(-90), RAD(0))
-local DAMAGEMULTIPLIER = 1
+local DAMAGEMULTIPLIER = 0
 local ANIM = "Idle"
 local ATTACK = false
 local EQUIPPED = false
@@ -1078,7 +1078,7 @@ CreateSound("838721484", Head, 10, 1)
 game.Players.LocalPlayer.Character.Dummy.Dummy["le"].Touched:connect(function(hit)
     local humanoid = hit.Parent:findFirstChild("Humanoid")
     if we == true then
-        humanoid:TakeDamage(10)
+        humanoid:TakeDamage(0)
     end
 end)
 	for i=0, 1, 0.1 / Animation_Speed do
