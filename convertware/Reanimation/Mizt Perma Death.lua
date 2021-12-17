@@ -8,7 +8,7 @@ _G.MiztReanimSettings = {
     FlingActive = false,
     AlignMethod = true,
     Netless = true,
-    ActiveLegacyNet = false,
+    ActiveLegacyNet = true,
     NetlessVelocity = {0,0,-50}
 }
 
