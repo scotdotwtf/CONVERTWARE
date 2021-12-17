@@ -1,5 +1,4 @@
-print("Running Yellow and Black Strong Sun Sword by ???")
-print("Please DM me if you know the person who made this script, my tag is spec#9001")
+print("> Running Yellow and Black Strong Sun Sword by ???")
 Player=game:GetService("Players").LocalPlayer
 Character=Player.Character.Dummy.Dummy
 PlayerGui=Player.PlayerGui
