@@ -360,6 +360,26 @@ local scriptcmds = {
         CMSG(" > Running Sassy Girl by Goodguyaiden")
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Sassy%20Girl%20Convert.lua',true))()
     end,
+
+    ["darkheart"] =  function()
+        CMSG(" > Running Sassy Girl by Goodguyaiden")
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Linked%20Sword%20Convert.lua',true))()
+    end,
+
+    ["hover"] =  function()
+        CMSG(" > Running Sassy Girl by Goodguyaiden")
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Hoverboard%20Convert.lua',true))()
+    end,
+
+    ["ban"] =  function()
+        CMSG(" > Running Sassy Girl by Goodguyaiden")
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Ban%20Hammer%20Convert.lua',true))()
+    end,
+
+    ["chips"] =  function()
+        CMSG(" > Running Sassy Girl by Goodguyaiden")
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Chips%20Convert.lua',true))()
+    end,
     
 }
 
