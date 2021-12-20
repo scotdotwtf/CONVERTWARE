@@ -31,6 +31,7 @@
 -  /// hover > 100R$ > roblox.com/catalog/4458601937 > Great Sword [any] > ???
 -  /// ban > 100R$ > roblox.com/catalog/4739580137 > Oversized Hammer > Creterisk
 -  /// chips > 75$ > roblox.com/catalog/4964938812 > Pillow > Creterisk
+-  /// chill > FREE > ???
 
 <br/>
 
