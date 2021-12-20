@@ -34,4 +34,5 @@
 -  /// darkheart > MONEY > loads this cool linked sword thing 
 -  /// hover > MONEY > wee! (light hoverboard) 
 -  /// ban > MONEY > BAN! (ban hammer)
+-  /// chill > FREE > just chillin script
 -  /// chips > MONEY > crank that solja 
