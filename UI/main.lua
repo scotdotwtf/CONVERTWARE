@@ -380,7 +380,11 @@ local scriptcmds = {
         CMSG(" > Running Chips by Creterisk")
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Chips%20Convert.lua',true))()
     end,
-    
+
+    ["chill"] = function()
+        CMSG(" > Running Chill by ???")
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Chill%20Convert.lua',true))()
+    end,
 }
 
 --// Run Cmd
