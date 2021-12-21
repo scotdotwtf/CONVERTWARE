@@ -11,11 +11,9 @@
 --YOU FUCKING SKIDS,
 --For Those who log/decompile this, If you sell or trade this,
 --and I find out who you are, i will take massive action.
+-------------------------------------------------------
 
------------------
-print("> Running Ban Hammer by Creterisk")
 loadstring(game:HttpGet('https://raw.githubusercontent.com/GelatekWasTaken/GelatekV2/main/LoadLibrary.lua',true))()
---------------------------------------
 
 local FavIDs = {
 	340106355, --Nefl Crystals
@@ -29,7 +27,7 @@ local FavIDs = {
 	727411183, --Knife Fight
 	1402748531, --The Earth Is Counting On You!
 	595230126 --Robot Language
-}
+	}
 
 
 
@@ -275,7 +273,7 @@ function Damage(Part, hit, minim, maxim, knockback, Type, Property, Delay, HitSo
 		if HitSound ~= nil and HitPitch ~= nil then
 			CFuncs.Sound.Create(HitSound, hit, 1, HitPitch) 
 		end
-		local Damage = 0
+		local Damage = math.random(minim, maxim)
 		local blocked = false
 		local block = hit.Parent:findFirstChild("Block")
 		if block ~= nil then
@@ -288,10 +286,10 @@ function Damage(Part, hit, minim, maxim, knockback, Type, Property, Delay, HitSo
 			end
 		end
 		if blocked == false then
-			h.Health = h.Health
+			h.Health = h.Health - Damage
 			ShowDamage((Part.CFrame * CFrame.new(0, 0, (Part.Size.Z / 2)).p + Vector3.new(0, 1.5, 0)), -Damage, 1.5, tors.BrickColor.Color)
 		else
-			h.Health = h.Health
+			h.Health = h.Health - (Damage / 2)
 			ShowDamage((Part.CFrame * CFrame.new(0, 0, (Part.Size.Z / 2)).p + Vector3.new(0, 1.5, 0)), -Damage, 1.5, tors.BrickColor.Color)
 		end
 		if Type == "Knockdown" then
@@ -451,7 +449,7 @@ function MagniDamage(Part, magni, mindam, maxdam, knock, Type)
         local targ = head.Position - Part.Position
         local mag = targ.magnitude
         if magni >= mag and c.Name ~= plr.Name then
-
+          Damage(head, head, mindam, maxdam, knock, Type, root, 0.1, "http://www.roblox.com/asset/?id=0", 1.2)
         end
       end
     end
@@ -846,7 +844,80 @@ function Magic(bonuspeed, type, pos, scale, value, color, MType)
 end
 
 function Eviscerate(dude)
-
+	if dude.Name ~= char then
+		local bgf = IT("BodyGyro", dude.Head)
+		bgf.CFrame = bgf.CFrame * CFrame.fromEulerAnglesXYZ(Rad(-90), 0, 0)
+		local val = IT("BoolValue", dude)
+		val.Name = "IsHit"
+		local ds = coroutine.wrap(function()
+			dude:WaitForChild("Head"):BreakJoints()
+			wait(0.5)
+			target = nil
+			coroutine.resume(coroutine.create(function()
+				for i, v in pairs(dude:GetChildren()) do
+					if v:IsA("Accessory") then
+						v:Destroy()
+					end
+					if v:IsA("Humanoid") then
+						v:Destroy()
+					end
+					if v:IsA("CharacterMesh") then
+						v:Destroy()
+					end
+					if v:IsA("Model") then
+						v:Destroy()
+					end
+					if v:IsA("Part") or v:IsA("MeshPart") then
+						for x, o in pairs(v:GetChildren()) do
+							if o:IsA("Decal") then
+								o:Destroy()
+							end
+						end
+						coroutine.resume(coroutine.create(function()
+							v.Material = "Neon"
+							v.CanCollide = false
+							local PartEmmit1 = IT("ParticleEmitter", v)
+							PartEmmit1.LightEmission = 1
+							PartEmmit1.Texture = "rbxassetid://284205403"
+							PartEmmit1.Color = ColorSequence.new(maincolor.Color)
+							PartEmmit1.Rate = 150
+							PartEmmit1.Lifetime = NumberRange.new(1)
+							PartEmmit1.Size = NumberSequence.new({
+								NumberSequenceKeypoint.new(0, 0.75, 0),
+								NumberSequenceKeypoint.new(1, 0, 0)
+							})
+							PartEmmit1.Transparency = NumberSequence.new({
+								NumberSequenceKeypoint.new(0, 0, 0),
+								NumberSequenceKeypoint.new(1, 1, 0)
+							})
+							PartEmmit1.Speed = NumberRange.new(0, 0)
+							PartEmmit1.VelocitySpread = 30000
+							PartEmmit1.Rotation = NumberRange.new(-500, 500)
+							PartEmmit1.RotSpeed = NumberRange.new(-500, 500)
+							local BodPoss = IT("BodyPosition", v)
+							BodPoss.P = 3000
+							BodPoss.D = 1000
+							BodPoss.maxForce = Vector3.new(50000000000, 50000000000, 50000000000)
+							BodPoss.position = v.Position + Vector3.new(Mrandom(-15, 15), Mrandom(-15, 15), Mrandom(-15, 15))
+							v.Color = maincolor.Color
+							coroutine.resume(coroutine.create(function()
+								for i = 0, 49 do
+									swait(1)
+									v.Transparency = v.Transparency + 0.08
+								end
+								wait(0.5)
+								PartEmmit1.Enabled = false
+								wait(3)
+								v:Destroy()
+								dude:Destroy()
+							end))
+						end))
+					end
+				end
+			end))
+		end)
+		ds()
+	end
 end
 
 function FindNearestHead(Position, Distance, SinglePlayer)
@@ -1035,7 +1106,6 @@ end
 --End Important Functions--
 -------------------------------------------------------
 
-
 -------------------------------------------------------
 --Start Customization--
 -------------------------------------------------------
@@ -1140,7 +1210,7 @@ tecks2.Parent = naeeym2]]
 --Start Attacks N Stuff--
 -------------------------------------------------------
 function Ban()
-	attack = false
+	attack = true
 	for i = 0, 2.6, 0.1 do
 		swait()
 		rootj.C0 = clerp(rootj.C0, RootCF * CF(0* Player_Size, 0* Player_Size, -0.1 + 0.1* Player_Size * Cos(sine / 20)) * angles(Rad(0), Rad(0), Rad(-60)), 0.2)
@@ -1155,11 +1225,7 @@ function Ban()
 	Effects.Wave.Create(BrickColor.new("Really black"), tors.CFrame * CF(0, -6, 0) * angles(math.rad(0), math.rad(math.random(0, 180)), math.rad(0)), 550.5, 100.5, 550.5, 200, 20, 200, 0.05)
   	Effects.Wave.Create(BrickColor.new("Really black"), tors.CFrame * CF(0, -6, 0) * angles(math.rad(0), math.rad(math.random(0, 180)), math.rad(0)), 550.5, 100.5, 550.5, 200, 20, 200, 0.05)
   	Effects.Wave.Create(BrickColor.new("Really black"), tors.CFrame * CF(0, -6, 0) * angles(math.rad(0), math.rad(math.random(0, 180)), math.rad(0)), 550.5, 100.5, 550.5, 200, 20, 200, 0.05)
- 	for i, v in pairs(FindNearestHead(Blobby.CFrame.p, 9.5)) do
-		if v:FindFirstChild("Head") then
-			Eviscerate(v)
-		end
-	end
+ 	
 	for i = 0, 3, 0.1 do
 		swait()
 		rootj.C0 = clerp(rootj.C0, RootCF * CF(0* Player_Size, 0* Player_Size, -0.1 + 0.1* Player_Size * Cos(sine / 20)) * angles(Rad(0), Rad(0), Rad(-15)), 0.3)
@@ -1188,11 +1254,7 @@ function BigBan()
 	Effects.Wave.Create(BrickColor.new("Really black"), tors.CFrame * CF(0, -6, 0) * angles(math.rad(0), math.rad(math.random(0, 180)), math.rad(0)), 550.5, 100.5, 550.5, 200, 20, 200, 0.05)
   	Effects.Wave.Create(BrickColor.new("Really black"), tors.CFrame * CF(0, -6, 0) * angles(math.rad(0), math.rad(math.random(0, 180)), math.rad(0)), 550.5, 100.5, 550.5, 200, 20, 200, 0.05)
   	Effects.Wave.Create(BrickColor.new("Really black"), tors.CFrame * CF(0, -6, 0) * angles(math.rad(0), math.rad(math.random(0, 180)), math.rad(0)), 550.5, 100.5, 550.5, 200, 20, 200, 0.05)
- 	for i, v in pairs(FindNearestHead(Blobby.CFrame.p, 14.5)) do
-		if v:FindFirstChild("Head") then
-			Eviscerate(v)
-		end
-	end
+ 	
 	for i = 0, 2.6, 0.1 do
 		swait()
 		rootj.C0 = clerp(rootj.C0, RootCF * CF(0* Player_Size, 0* Player_Size, 1 + 0.1* Player_Size * Cos(sine / 20)) * angles(Rad(75), Rad(0), Rad(0)), 0.2)
@@ -1226,11 +1288,7 @@ function BANN()
   	Effects.Sphere.Create(BrickColor.new("Really black"), root.CFrame * CF(0, -2, 0), 10, 7, 10, 15, -0.1, 15, 0.04)
   	Effects.Sphere.Create(BrickColor.new("Really black"), root.CFrame * CF(0, -2, 0), 10, 6, 10, 15, -0.1, 15, 0.02)
   	Effects.Sphere.Create(BrickColor.new("Really black"), root.CFrame * CF(0, -2, 0), 10, 4, 10, 15, -0.1, 15, 0.01)
- 	for i, v in pairs(FindNearestHead(Blobby.CFrame.p, 19.5)) do
-		if v:FindFirstChild("Head") then
-			Eviscerate(v)
-		end
-	end
+ 	
 	for i = 0, 3, 0.1 do
 		swait()
 		rootj.C0 = clerp(rootj.C0, RootCF * CF(0* Player_Size, 0* Player_Size, -0.1 + 0.1* Player_Size * Cos(sine / 20)) * angles(Rad(0), Rad(0), Rad(-15)), 0.3)
@@ -1275,6 +1333,7 @@ mouse.Button1Down:connect(function(key)
 	end
 end)
  
+
 --// Credits to Mizt for this AMAZING alignment script :> //--
 local alignchar = game:GetService("Players").LocalPlayer.Character
 local hhat = alignchar['MARTILLO']
@@ -1309,9 +1368,9 @@ function AlignCharacter(Part0,Part1,Position,Angle)
 end
 
 hhat.Handle.AccessoryWeld:Destroy()
-AlignCharacter(hhat.Handle,char.Blob,Vector3.new(0,0,0),Vector3.new(0,90,0))
+AlignCharacter(hhat.Handle,char.Blob,Vector3.new(0,0,-0.6),Vector3.new(0,90,-15))
 
-for _,v in pairs(alignchar.Dummy.Dummy:GetChildren()) do
+for _,v in pairs(char:GetChildren()) do
 	if v:IsA("BasePart") then
 		v.Transparency = 1
 	end
