@@ -495,17 +495,17 @@ local scriptcmds = {
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Yellow%20and%20Black%20Strong%20Sun%20Sword%20Convert.lua',true))()
     end,
 
-    ["huntsman knife"] =  function()
+    ["huntsman"] =  function()
         CMSG(" > Running Phosphoria Huntsman Knife by ???")  
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Phosphoria%20Huntsman%20Knife%20Convert.lua',true))()
     end,
     
-    ["kitchen gun"] =  function()
+    ["kitchen"] =  function()
         CMSG(" > Running Kitchen Gun by WafflesAreVeryGood")  
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Kitchen%20Gun%20Convert.lua',true))()
     end,
     
-    ["neptunian v"] =  function()
+    ["nep v"] =  function()
         CMSG(" > Running Neptune/Neptunian V by NoobyGames12")
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Neptunian%20V%20Convert.lua',true))()
     end,
@@ -515,23 +515,23 @@ local scriptcmds = {
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Xester%20Convert.lua',true))()
     end,
     
-    ["krystal dance v1"] =  function()
+    ["krystal v1"] =  function()
         CMSG(" > Running Krystal Dance v1 by The Krystal Team")
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Krystal%20Dance%20V1%20Convert.lua',true))()
     end,
     
-    ["krystal dance v2"] =  function()
+    ["krystal v2"] =  function()
         CMSG(" > Running Krystal Dance V2 by Supr14")
         CMSG(" [also credits to krystalteam for krystal dances v1]")
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Krystal%20Dances%20V2%20Convert.lua',true))()
     end,
     
-    ["abyss eye"] =  function()
+    ["abyss"] =  function()
         CMSG(" > Running Abyss Eye by Shackluster")
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Abyss%20Eye%20Convert.lua',true))()
     end,
     
-    ["gale fighter"] =  function()
+    ["gale"] =  function()
         CMSG(" > Running Gale Fighter by makhail07 and KillerDarkness0105")
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Gale%20Fighter%20Convert.lua',true))()
     end,
@@ -571,22 +571,22 @@ local scriptcmds = {
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Jump%20In%20The%20CAAC%20Convert.lua',true))()
     end,
     
-    ["dual ultima"] =  function()
+    ["ultima"] =  function()
         CMSG(" > Running Dual Ultima by Sugarie Saffron")
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Dual%20Ultima%20Convert.lua',true))()
     end,
     
-    ["server admin"] =  function()
+    ["server"] =  function()
         CMSG(" > Running Server Admin by Shackluster")
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Server%20Admin%20Convert.lua',true))()
     end,
     
-    ["meme animations"] =  function()
+    ["meme"] =  function()
         CMSG(" > Running Meme Animations by 123jl123? [idk]")
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Meme%20Animations%20Convert.lua',true))()
     end,
     
-    ["magic unknown"] =  function()
+    ["magic"] =  function()
         CMSG(" > Running Magic Unknown by KillerDarkness0105")
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Magic%20Unknown%20Convert.lua',true))()
     end,
@@ -621,6 +621,7 @@ local scriptcmds = {
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Chill%20Convert.lua',true))()
     end,
 }
+
 
 --// Run Cmd
 input1.FocusLost:connect(function(enterPressed)
