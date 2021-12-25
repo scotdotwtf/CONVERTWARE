@@ -1,8 +1,13 @@
+local function CMSG(text)
+	game.StarterGui:SetCore("ChatMakeSystemMessage", {
+		Text = text,
+        Font = Enum.Font.Gotham,
+		Color = Color3.fromRGB(255, 255, 255),
+		TextSize = 16,
+	});
+end
+
 scriptcmds = {
-    ["test"] = function()
-	print("help lol")
-    end,
-	
     --// Starting with reanimations
     ["r6"] =  function()
         CMSG(" > Reanimated!")     
