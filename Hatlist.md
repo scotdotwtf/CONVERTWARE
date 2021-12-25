@@ -28,11 +28,11 @@
 -  ★★★ Magic Unknown > FREE > KillerDarkness0105
 -  /// Sassy Girl > 20R$ > roblox.com/catalog/7062076298 > Tote Bag > Goodguyaiden
 -  /// Darkheart > 50R$ > roblox.com/catalog/5269089688 > Void Sword > SezHu
--  /// Hoverboard > 100R$ > roblox.com/catalog/4458601937 > Great Sword [any] > ???
--  /// Ban Hammer > 100R$ > roblox.com/catalog/4739580137 > Oversized Hammer > Creterisk
+-  ★// Hoverboard > 100R$ > roblox.com/catalog/4458601937 > Great Sword [any] > ???
+-  ★★/ Ban Hammer > 100R$ > roblox.com/catalog/4739580137 > Oversized Hammer > Creterisk
 -  /// Chips > 75$ > roblox.com/catalog/4964938812 > Pillow > Creterisk
--  /// Chill > FREE > ???
--  /// Nebula Star Glitcher > FREE > Nebula_Zorua
+-  ★// Chill > FREE > ???
+-  ★★/ Nebula Star Glitcher > FREE > Nebula_Zorua
 
 <br/>
 
