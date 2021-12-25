@@ -23,24 +23,7 @@ scriptcmds = {
         CMSG(" > Reanimated with godmode on!")
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Reanimation/Mizt%20Perma%20Death.lua',true))()     
     end,
-
-    --// Now control
-    ["cmds"] = function()
-        cmframe.Visible = true
-    end,
-
-    ["noscript"] = function()
-        CONVERTWARE:Destroy()
-    end,
-    
-    ["re"] = function()
-        local Players = game:GetService("Players")
-
-        Players.LocalPlayer:Kick("making you rejoin so scripts 100% work")
-		wait()
-		game:GetService('TeleportService'):Teleport(game.PlaceId, Players.LocalPlayer)
-    end,
-
+	
     --// And finally converts
     ["sun sword"] =  function()
         CMSG(" > Running Yellow and Black Strong Sun Sword by ???")  
