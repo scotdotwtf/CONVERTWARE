@@ -36,3 +36,4 @@
 -  /// chill > FREE > just chillin script
 -  /// chips > MONEY > crank that solja 
 -  /// abyss d > MONEY > abyss eye but with demonic sword
+-  /// nebula > FREE > nebula star glitcher
