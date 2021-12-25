@@ -65,6 +65,11 @@ scriptcmds = {
         CMSG(" > Running Abyss Eye by Shackluster")
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Abyss%20Eye%20Convert.lua',true))()
     end,
+	
+    ["abyss d"] = function()
+	CSMG(" > Running Abyss Eye by Shackluster")
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Abyss%20Eye%20Demonic%20Convert.lua',true))()
+    end,	
     
     ["gale"] =  function()
         CMSG(" > Running Gale Fighter by makhail07 and KillerDarkness0105")
