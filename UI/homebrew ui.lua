@@ -456,7 +456,7 @@ dragify(cprompt)
 
 scriptcontrols = {
     ["cmds"] = function()
-        cmframe.Visible = true
+        cmdsframe.Visible = true
     end,
 
     ["noscript"] = function()
