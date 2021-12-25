@@ -6,6 +6,8 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/
 --// Homebrew V4 UI
 loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/UI/homebrew%20ui.lua',true))()
 
---// Filterware
+--// Filterware V1 CMD Bar Remake
 loadstring(game:HttpGet('https://github.com/specowos/CONVERTWARE/blob/main/UI/filterware%20ui.lua',true))()
 
+--// Filterware V2 UI Remake
+-- coming soon
