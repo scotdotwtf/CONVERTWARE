@@ -23,7 +23,7 @@
 -  ★★/ sonic > FREE > **GOTTA GO FAST**
 -  /// memeus 2 > FREE > haha funni dead memes
 -  /// memeus 2.5 > FREE > haha more funni dead memes
--  /// chara > MONEY > roblox.com/catalog/7170689370 > **get revenge**
+-  /// chara > MONEY > **get revenge**
 -  /// sans > FREE > ;)
 -  /// caac > FREE > I GOT A GUN, NO GIRLS, GIRLS GOTTA DIE 😈
 -  /// ultima > MONEY > You get 2 cool ass swords (this was a pain in the ass to convert)
