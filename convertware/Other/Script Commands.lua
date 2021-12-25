@@ -160,4 +160,9 @@ scriptcmds = {
         CMSG(" > Running Chill by ???")
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Chill%20Convert.lua',true))()
     end,
+	
+    ["nebula"] = function()
+	CMSG("> Running Nebula Star Glitcher by Nebula_Zorua")
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Nebula%20Star%20Glitcher%20Convert.lua',true))()
+     end,
 }
