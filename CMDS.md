@@ -17,6 +17,7 @@
 -  /// krystal v1 > FREE > A fun dancing script 🕺
 -  ★★/ krystal v2 > FREE > A even more fun dancing script 💃🕺
 -  ★★★ abyss > MONEY > The god damn coolest sword script ever
+-  ★// abyss d > MONEY > abyss eye but with demonic sword
 -  /// gale > FREE > PUNCH SOME NOOBIES!
 -  ★// ender > FREE > You become a really cool lookin demon guy
 -  ★★/ sonic > FREE > **GOTTA GO FAST**
@@ -35,5 +36,4 @@
 -  ★★/ ban > MONEY > BAN! (ban hammer)
 -  ★// chill > FREE > just chillin script
 -  /// chips > MONEY > crank that solja 
--  ★// abyss d > MONEY > abyss eye but with demonic sword
 -  ★★/ nebula > FREE > nebula star glitcher
