@@ -12,7 +12,7 @@
 -  ★★/ Xester > FREE > Supr14
 -  /// Krystal Dance V1 > FREE > The Krystal Team
 -  ★★/ Krystal Dances V2 > FREE > Supr14
--  ★★★ Abyss Eye > 100R$ > roblox.com/catalog/4524991457 > Blademaster's Blade > Shackluster
+-  ★★★ Abyss Eye > 100R$ > roblox.com/catalog/4524991457 > Blademaster's Blade > Shackluster > Run 'abyss d' to use abyss eye with demonic sword
 -  /// Gale Fighter > FREE > Makhail07 and KillerDarkness0105
 -  ★// Ender > FREE > Makhail07
 -  ★★/ Sonic > FREE > KillerDarkness0105
