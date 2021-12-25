@@ -1,4 +1,8 @@
 scriptcmds = {
+    ["test"] = function()
+	print("help lol")
+    end,
+	
     --// Starting with reanimations
     ["r6"] =  function()
         CMSG(" > Reanimated!")     
