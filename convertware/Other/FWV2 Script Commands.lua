@@ -43,7 +43,7 @@ scriptcmds = {
 	
     ["abyss d"] = [[
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Abyss%20Eye%20Demonic%20Convert.lua',true))()
-    ]]	
+    ]],	
     
     ["gale"] = [[
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Gale%20Fighter%20Convert.lua',true))()
