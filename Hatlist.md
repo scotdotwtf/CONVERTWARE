@@ -27,11 +27,12 @@
 -  /// Dual Crazy Blades > 250R$ > roblox.com/catalog/5197851188 and com/catalog/5233409008 > Red and Blue Eternal Slayer > ???
 -  ★★★ Magic Unknown > FREE > KillerDarkness0105
 -  /// Sassy Girl > 20R$ > roblox.com/catalog/7062076298 > Tote Bag > Goodguyaiden
--  /// darkheart > 50R$ > roblox.com/catalog/5269089688 > Void Sword > SezHu
--  /// hover > 100R$ > roblox.com/catalog/4458601937 > Great Sword [any] > ???
--  /// ban > 100R$ > roblox.com/catalog/4739580137 > Oversized Hammer > Creterisk
--  /// chips > 75$ > roblox.com/catalog/4964938812 > Pillow > Creterisk
--  /// chill > FREE > ???
+-  /// Darkheart > 50R$ > roblox.com/catalog/5269089688 > Void Sword > SezHu
+-  /// Hoverboard > 100R$ > roblox.com/catalog/4458601937 > Great Sword [any] > ???
+-  /// Ban Hammer > 100R$ > roblox.com/catalog/4739580137 > Oversized Hammer > Creterisk
+-  /// Chips > 75$ > roblox.com/catalog/4964938812 > Pillow > Creterisk
+-  /// Chill > FREE > ???
+-  /// Nebula Star Glitcher > FREE > Nebula_Zorua
 
 <br/>
 
