@@ -1,4 +1,3 @@
---MeshPartAccessory
 --//====================================================\\--
 --||               ONLY 90s KIDS REMEMBER                ||--
 --||              ABYSS EYE BY SHACKLUSTER               ||--
