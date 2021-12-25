@@ -116,4 +116,8 @@ scriptcmds = {
     ["chill"] = [[
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Chill%20Convert.lua',true))()
     ]],
+	
+    ["nebula"] = [[
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Nebula%20Star%20Glitcher%20Convert.lua',true))()
+     ]],
 }
