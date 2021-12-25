@@ -9,6 +9,7 @@ end
 
 CMSG(" > Filterware V2 UI Remake by Colastee and Bug")
 CMSG(" > SO SORRY, couldnt get cmsg to work with buttons (please check console for credit)")
+CMSG("\n[press esc and click the box saying 'CWare']")
 
 _G.Icon = "https://i.ibb.co/M98kfxh/cvware2.png"
 _G.Name = "CWare"
