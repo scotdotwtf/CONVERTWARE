@@ -10,4 +10,4 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/
 loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/UI/filterware%20ui.lua',true))()
 
 --// Filterware V2 UI Remake
--- coming soon
+loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/UI/filterware%20v2%20ui.lua',true))()
