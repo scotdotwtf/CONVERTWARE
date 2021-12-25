@@ -1,4 +1,4 @@
-local scriptcmds = {
+_G.scriptcmds = {
     --// Starting with reanimations
     ["r6"] =  function()
         CMSG(" > Reanimated!")     
