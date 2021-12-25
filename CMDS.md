@@ -31,9 +31,9 @@
 -  ★★★ magic > FREE > THIS SCRIPT IS FUCKING AMAZING. its a free cool purple magic script
 -  /// sassy > MONEY > bro this script is weird and funny as shit 😭
 -  /// darkheart > MONEY > loads this cool linked sword thing 
--  /// hover > MONEY > wee! (light hoverboard) 
--  /// ban > MONEY > BAN! (ban hammer)
--  /// chill > FREE > just chillin script
+-  ★// hover > MONEY > wee! (light hoverboard) 
+-  ★★/ ban > MONEY > BAN! (ban hammer)
+-  ★// chill > FREE > just chillin script
 -  /// chips > MONEY > crank that solja 
--  /// abyss d > MONEY > abyss eye but with demonic sword
--  /// nebula > FREE > nebula star glitcher
+-  ★// abyss d > MONEY > abyss eye but with demonic sword
+-  ★★/ nebula > FREE > nebula star glitcher
