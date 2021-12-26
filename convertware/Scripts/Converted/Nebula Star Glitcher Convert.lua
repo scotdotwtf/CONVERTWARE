@@ -1,8 +1,6 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/GelatekWasTaken/GelatekV2/main/LoadLibrary.lua',true))()
 print("> Running Nebula Star Glitcher by Nebula_Zorua")
 
-local hatstar = game:GetService("Players").LocalPlayer.Character['Northern Star']
-
 plr = Game:GetService("Players").LocalPlayer
 char = plr.Character.Dummy.Dummy
 hum = char.Humanoid
