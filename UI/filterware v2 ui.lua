@@ -7,7 +7,7 @@ local function CMSG(text)
 	});
 end
 
-CMSG(" > Filterware V2 UI Remake by Colastee and Bug")
+CMSG(" > Filterware V2 UI Lib Remake by Colastee and Bug")
 CMSG(" > SO SORRY, couldnt get cmsg to work with buttons (please check console for credit)")
 CMSG("\n[press esc and click the box saying 'CWare']")
 
