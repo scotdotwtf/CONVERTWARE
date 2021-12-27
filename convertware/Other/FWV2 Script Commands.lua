@@ -120,4 +120,12 @@ scriptcmds = {
     ["nebula"] = [[
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Nebula%20Star%20Glitcher%20Convert.lua',true))()
     ]],
+	
+    ["hacker"] = [[
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Hacker%20X%20Paid%20Convert.lua',true))()
+    ]],
+	
+    ["hacker f"] = [[
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Hacker%20X%20Convert.lua',true))()
+    ]],
 }
