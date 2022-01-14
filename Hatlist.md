@@ -34,6 +34,7 @@
 -  ★// Chill > FREE > ???
 -  ★★/ Nebula Star Glitcher > FREE > Nebula_Zorua
 -  ★★/ Hacker X > 300R$/FREE >  https://www.roblox.com/catalog/4772333739/Over-the-Rainbow and https://www.roblox.com/catalog/5699732847/Pixel-Rainbow-Wings https://www.roblox.com/catalog/5460022866/Magic-Staff > Pixel Rainbow Wings, Magic Staff, Over The Rainbow > Run 'hacker f' to use hacker x for free
+-  ★// The Distorted  > FREE > Makhai07
  
 
 <br/>
