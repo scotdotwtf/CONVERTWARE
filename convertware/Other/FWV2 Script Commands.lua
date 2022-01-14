@@ -128,4 +128,8 @@ scriptcmds = {
     ["hacker f"] = [[
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Hacker%20X%20Convert.lua',true))()
     ]],
+	
+    ["distorted "] = [[
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/The%20Distorted%20Convert.lua',true))()
+    ]],
 }
