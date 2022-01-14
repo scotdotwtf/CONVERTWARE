@@ -39,3 +39,4 @@
 -  ★★/ nebula > FREE > nebula star glitcher
 -  ★★/ hacker > PAID > hacker x but with fe screens
 -  ★★/ hacker f > FREE > hacker x but with no fe screens
+-  ★// distorted > FREE > t h e   d i s t o r t e d
