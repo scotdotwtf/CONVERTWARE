@@ -161,22 +161,27 @@ scriptcmds = {
     end,
 	
     ["nebula"] = function()
-	CMSG(" > Running Nebula Star Glitcher by Nebula_Zorua")
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Nebula%20Star%20Glitcher%20Convert.lua',true))()
-     end,
+	    CMSG(" > Running Nebula Star Glitcher by Nebula_Zorua")
+	    loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Nebula%20Star%20Glitcher%20Convert.lua',true))()
+    end,
 
     ["hacker"] = function()
-	CMSG(" > Running Hacker X by InfiniteOneWithdank")
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Hacker%20X%20Paid%20Convert.lua',true))()
-     end,
+	    CMSG(" > Running Hacker X by InfiniteOneWithdank")
+	    loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Hacker%20X%20Paid%20Convert.lua',true))()
+    end,
 	
      ["hacker f"] = function()
-	CMSG(" > Running Hacker X by InfiniteOneWithdank")
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Hacker%20X%20Convert.lua',true))()
-     end,
+	    CMSG(" > Running Hacker X by InfiniteOneWithdank")
+	    loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Hacker%20X%20Convert.lua',true))()
+    end,
 	
      ["distorted"] = function()
-	CMSG(" > Running The Distorted by Makhai07")
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/The%20Distorted%20Convert.lua',true))()
-     end,
+	    CMSG(" > Running The Distorted by Makhai07")
+	    loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/The%20Distorted%20Convert.lua',true))()
+    end,
+
+     ["voodoo"] = function()
+        CMSG(" > Running Voodoo Child by Creterisk")
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Voodoo%20Child%20Convert.lua',true))()
+    end,
 }
