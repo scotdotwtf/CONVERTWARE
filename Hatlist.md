@@ -33,7 +33,7 @@
 -  /// Chips > 75$ > roblox.com/catalog/4964938812 > Pillow > Creterisk
 -  ★// Chill > FREE > ???
 -  ★★/ Nebula Star Glitcher > FREE > Nebula_Zorua
--  ★★/ Hacker X > 300R$/FREE >  roblox.com/catalog/4772333739 and roblox.com/catalog/5699732847 and roblox.com/catalog/5460022866 > Pixel Rainbow Wings, Magic Staff, Over The Rainbow > 
+-  ★★/ Hacker X > 300R$/FREE >  roblox.com/catalog/4772333739 and roblox.com/catalog/5699732847 and roblox.com/catalog/5460022866 > Pixel Rainbow Wings, Magic Staff, Over The Rainbow > InfiniteOneWithdank
 -  ★// The Distorted  > FREE > Makhai07
 -  /// Voodoo Child > 150R$ > roblox.com/catalog/4684948729 and roblox.com/catalog/7218253553 > Kawaii Knife and Voodoo Doll > Creterisk
  
