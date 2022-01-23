@@ -136,4 +136,8 @@ scriptcmds = {
     ["voodoo"] = [[
 	    loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Voodoo%20Child%20Convert.lua',true))()
     ]],
+
+    ["voodoo f"] = [[
+	    loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Voodoo%20Child%20Free%20Convert.lua',true))()
+    ]],
 }
