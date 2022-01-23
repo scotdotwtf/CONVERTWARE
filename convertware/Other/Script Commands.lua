@@ -180,8 +180,13 @@ scriptcmds = {
 	    loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/The%20Distorted%20Convert.lua',true))()
     end,
 
-     ["voodoo"] = function()
+    ["voodoo"] = function()
         CMSG(" > Running Voodoo Child by Creterisk")
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Voodoo%20Child%20Convert.lua',true))()
+    end,
+
+    ["voodoo f"] = function()
+        CMSG(" > Running Voodoo Child Free by Creterisk")
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Voodoo%20Child%20Free%20Convert.lua',true))()
     end,
 }
