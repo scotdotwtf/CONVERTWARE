@@ -41,3 +41,4 @@
 -  ★★/ hacker f > FREE > hacker x but with no fe screens
 -  ★// distorted > FREE > t h e   d i s t o r t e d
 -  /// voodoo > MONEY > *insert voodoo music*
+-  /// voodoo f > FREE > *insert voodoo music* (but its free)
