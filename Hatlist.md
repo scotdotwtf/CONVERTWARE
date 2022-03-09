@@ -35,7 +35,7 @@
 -  ★★/ Nebula Star Glitcher > FREE > Nebula_Zorua
 -  ★★/ Hacker X > 300R$/FREE >  https://www.roblox.com/catalog/4772333739/Over-the-Rainbow and https://www.roblox.com/catalog/5699732847/Pixel-Rainbow-Wings https://www.roblox.com/catalog/5460022866/Magic-Staff > Pixel Rainbow Wings, Magic Staff, Over The Rainbow > Run 'hacker f' to use hacker x for free
 -  ★// The Distorted  > FREE > Makhai07
--  /// Voodoo Child > 150R$ > Creterisk
+-  /// Voodoo Child > 150R$ > > roblox.com/catalog/4684948729/Kawaii-Knife and roblox.com/catalog/7218253553/Voodoo-Doll-Plushie > Kawaii knife and Voodoo-Doll > Creterisk
 -  /// Voodoo Child Free > FREE > https://www.roblox.com/catalog/3398308134/International-Fedora-Canada and https://www.roblox.com/catalog/4324158403/International-Fedora-Japan > Japan fedora and Canada fedora > Creterisk
  
 
