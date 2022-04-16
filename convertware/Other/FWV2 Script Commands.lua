@@ -140,4 +140,8 @@ scriptcmds = {
     ["voodoo f"] = [[
 	    loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Voodoo%20Child%20Free%20Convert.lua',true))()
     ]],
+	
+    ["cart"] = [[
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Shopping%20Cart%20Convert.lua',true))()
+    ]],
 }
