@@ -42,3 +42,4 @@
 -  ★// distorted > FREE > t h e   d i s t o r t e d
 -  /// voodoo > MONEY > *insert voodoo music*
 -  /// voodoo f > FREE > *insert voodoo music* (but its free)
+-  /// shopping cart > MONEY > trash FD shopping cart script
