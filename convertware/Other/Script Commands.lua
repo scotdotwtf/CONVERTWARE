@@ -189,4 +189,10 @@ scriptcmds = {
         CMSG(" > Running Voodoo Child Free by Creterisk")
         loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Voodoo%20Child%20Free%20Convert.lua',true))()
     end,
+	
+    ["cart"] = function()
+	CMSG(" > Running Shopping Cart by Rufus")
+	CMSG(" > *Warning, 90% of this is FD meaning no one will see you pick people up")
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/convertware/Scripts/Converted/Shopping%20Cart%20Convert.lua',true))()
+    end,
 }
