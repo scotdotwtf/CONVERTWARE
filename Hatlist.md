@@ -37,6 +37,7 @@
 -  ★// The Distorted  > FREE > Makhai07
 -  /// Voodoo Child > 150R$ > > roblox.com/catalog/4684948729/Kawaii-Knife and roblox.com/catalog/7218253553/Voodoo-Doll-Plushie > Kawaii knife and Voodoo-Doll > Creterisk
 -  /// Voodoo Child Free > FREE > https://www.roblox.com/catalog/3398308134/International-Fedora-Canada and https://www.roblox.com/catalog/4324158403/International-Fedora-Japan > Japan fedora and Canada fedora > Creterisk
+-  /// Shopping Cart > 100R$ > roblox.com/catalog/4794163533/ > Shopping Cart > Rufus (90% FD)
  
 
 <br/>
