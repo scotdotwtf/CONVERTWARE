@@ -1,3 +1,7 @@
+# THIS PROJECT WILL NO LONGER BE UPDATED ⚠️
+### This project is pretty old and will no longer be updated as I feel it's past it's prime and also it's just generally shity coding.
+### I might bring it back but if i do it would have it's own reanim and just generally be better.
+
 # CONVERTWARE | the open source fd fix
 ![Convertwarelogo](https://github.com/specowos/CONVERTWARE/raw/main/Convertwarelogo.png)
 
