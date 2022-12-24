@@ -17,8 +17,6 @@
 
 <span style="color:#8c9ef7">★ what is convertwere?</span> <br />
 - convertware is a now defunct open source project where i took FD scripts and made them works with mizt reanim
-- Hatlish: https://github.com/specowos/CONVERTWARE/blob/main/Hatlist.md
-- Scriptlist: https://github.com/specowos/CONVERTWARE/blob/main/CMDS.md
 
 <span style="color:#98add6">// TRY CONVERTWARE //<span> <br /> <br />
 - Regular
