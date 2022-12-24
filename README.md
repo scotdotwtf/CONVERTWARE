@@ -6,7 +6,6 @@
 ![Convertwarelogo](https://github.com/specowos/CONVERTWARE/raw/main/Convertwarelogo.png)
 
 ## // QUICK LINKS //
-- Script https://github.com/specowos/CONVERTWARE/blob/main/Load.lua
 - Hat List https://github.com/specowos/CONVERTWARE/blob/main/Hatlist.md
 - Cmds https://github.com/specowos/CONVERTWARE/blob/main/CMDS.md
 
