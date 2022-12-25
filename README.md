@@ -13,7 +13,7 @@
 ### convertware is a now defunct open source project where i took FD scripts and made them works with mizt reanim
 
 ## // TRY CONVERTWARE //
-- Regular
+- Regular | Open UI using Alt
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/UI/main.lua',true))()
 ```
@@ -24,17 +24,17 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/
 loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/UI/homebrew%20ui.lua',true))()
 ```
 
-- Filterware V2 inspired custom UI
+- Filterware V2 inspired custom UI | Open in Esc menu
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/UI/filterware%20v2%20ui.lua',true))()
 ```
 
-- KRNL X custom UI
+- KRNL X custom UI | Open UI using Alt
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/UI/krnl%20x.lua',true))()
 ```
 
-- Fiterware V1 custom UI
+- Fiterware V1 custom UI | Open UI using Alt
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/specowos/CONVERTWARE/main/UI/filterware%20ui.lua',true))()
 ```
