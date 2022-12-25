@@ -15,7 +15,7 @@ _G.Icon = "https://i.ibb.co/M98kfxh/cvware2.png"
 _G.Name = "CWare"
 
 local ImageExp = syn and getsynasset or KRNL_LOADED and getcustomasset
-local itemholder = game.CoreGui.RobloxGui.SettingsShield.SettingsShield.MenuContainer.HubBar
+local itemholder = game.CoreGui.RobloxGui.SettingsShield.SettingsShield.MenuContainer.HubBar.HubBarContainer
 local pageview = game.CoreGui.RobloxGui.SettingsShield.SettingsShield.MenuContainer.PageViewClipper.PageView.PageViewInnerFrame
 local newTab = itemholder.RecordTab
 local newtabText = newTab.Icon.Title
