@@ -1,4 +1,5 @@
 # THIS PROJECT WILL NO LONGER BE UPDATED ⚠️
+# THIS PROJECT WILL ALSO NEVER WORK IN A WHILE BECAUSE I CHANGED MY GITHUB USERNAME WHICH WILL MESS UP THE WHOLE ENTIRE PROJECT
 ## This project is pretty old and will no longer be updated as I feel it's past it's prime and also it's just generally shity coding.
 ## I might bring it back but if i do it would have it's own reanim and just generally be better.
 
